@@ -39,6 +39,33 @@
   4. Click enter then wait to finish
   5. Reboot
 
+# Question And Answers
+  Q: Why does it says "Resizing 'system_a'                                FAILED (remote: 'Not enough space to resize partition')" when i flash the gsi?
+  
+  A: This shows that theres **NO** enough space for system partition. You can visit fixes on here :
+
+  Q: Why does Infinix GSI Causes brightness bugs
+  
+  A: Honestly, Ask the group. I dont know why..
+
+  Q: Do you have por-
+  
+  A: No. now sybau
+
+  Q: Does System Size changes by installing Stock Rom?
+  
+  A: Obviously yea. Because it adds back the parttitions you removed
+
+  Q: Do you have discord
+  
+  A: Probably Soon
+
+  Q: Type an new lua
+  
+  A: ``print("hey")``
+
+Any Infomation you want to know must be on issues!
+
 # Extras 
 "Just be happy if it boots. If more than just booting works, feel extremely lucky" - TrebleDroid
   - For help. Contact our search "Infinix Smart 8" on telegram
