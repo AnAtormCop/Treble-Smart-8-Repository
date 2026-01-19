@@ -76,5 +76,35 @@
     apt upgrade
 
     apt install nano vim net-tools sudo git
- 
-  
+ <div align="Left">
+  <img src="https://raw.githubusercontent.com/AnAtormCop/Treble-Smart-8-Repository/refs/heads/main/Images/Picsart_26-01-19_23-22-00-909.png" width="100%" alt="Gud">
+
+  # After you did the chroot tutorial, lets move to this guide
+   Requirements
+    • Make sure your on Localhost
+    • Sudo apt-get works
+    • DON'T EXIT
+  # Double check if updated
+    apt update && apt upgrade -y 
+  # After that, Install drivers
+    sudo apt-get install build-essential libusb-1.0-0-dev git wget curl unzip zip
+    curl -L -O https://github.com/Seuj09/Spd_dump_termux/releases/download/Release/spreadtrum_flash_termux.zip
+    unzip spreadtrum_flash_termux.zip
+    cd spreadtrum_flash_termux
+    chmod +x spd_dump
+    chmod +x menu.sh
+    chmod +x gen_spl-unlock
+    chmod +x gen_spl-unlock-legacy
+    chmod +x gen_fdl1-dl
+    chmod +x misc-fastbootd.bin
+    chmod +x misc-wipe.bin
+
+  # Results
+   Type ./menu.sh to start 
+
+  # Credits
+   @Seuj09 = Tutorial 
+   
+   @AnAtormCop = Repository 
+   
+   @Massatrio = Tools
