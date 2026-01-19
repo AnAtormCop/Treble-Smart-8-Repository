@@ -53,9 +53,9 @@ This is for IS8 (Infinix Smart 8). This place will help you unlocking bootloader
 
 # Credits
   • TrebleDroid = Making this possible!
-  • Massatrio = Made Spreadtrum bat file
-  • AnAtormCop = Repository Maker
-  • Telegram Fans = Supporters
-
   
-
+  • Massatrio = Made Spreadtrum bat file
+  
+  • AnAtormCop = Repository Maker
+  
+  • Telegram Fans = Supporters
