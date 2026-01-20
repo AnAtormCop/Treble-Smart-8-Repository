@@ -15,6 +15,9 @@
   • Infinix Phone
 
   • Type SU to grant superuser permissions, DONT EXIT
+
+  # Install Busybox (Required)
+     https://xdaforums.com/attachments/update-busybox-installer-v1-36-1-all-signed-zip.6000117/
  
   # Making Directory called = chrootubuntu to /data/local/tmp/
     mkdir /data/local/tmp/chrootubuntu
